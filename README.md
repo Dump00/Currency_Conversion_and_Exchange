@@ -13,4 +13,5 @@ http://localhost:8761
 
 ## API Gateway
 http://localhost:8765/CURRENCY-EXCHANGE/currency-exchange/from/USD/to/LKR
+http://localhost:8765/CURRENCY-CONVERSION-SERVICE/currency-conversion-controller-feign/from/USD/to/LKR/quantity/100
 
